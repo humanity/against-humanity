@@ -19,3 +19,6 @@ h3. Credit & Licensing
 * This repository is issued under the "Attribution-NonCommercial 3.0 Unported license":http://creativecommons.org/licenses/by-nc/3.0/
 * The JSON file of cards is based on "samurailink3/hangouts-against-humanity":https://github.com/samurailink3/hangouts-against-humanity/wiki/Cards they did the hard work. I think.
 
+
+
+!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/humanity/against-humanity)!:https://gitter.im/humanity/against-humanity?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
